@@ -6,7 +6,7 @@ Sou apaixonado por tecnologia desde pequeno e estou **sempre em busca de conheci
 Tenho experiência e gosto de trabalhar com **Python**, **HTML** e **CSS**, e estou constantemente buscando evoluir tanto no lado técnico quanto pessoal.
 
 ## 🚀 Projeto Favorito
-- **[sistemaa](https://github.com/caetanopetry/sistemaa)**  
+- **[GHCP-- GAME CHIP](https://github.com/PietroTamanini/GHCP)**  
   Meu projeto atual favorito, onde aplico meus conhecimentos e coloco em prática o que venho aprendendo.
 
 ## 💻 Tecnologias e Habilidades
