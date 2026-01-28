@@ -15,6 +15,9 @@ Tenho experiência e gosto de trabalhar com **Python**, **Flask**, **HTML**, **C
 - HTML & CSS
 - Java Sript
 - Nodejs
+- MySQLWorkbench
+- Git
+- GitHub
 
 ## 🎮 Hobbies & Interesses
 - Jogar basquete nos finais de semana
