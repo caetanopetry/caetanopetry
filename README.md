@@ -8,13 +8,6 @@ Estudante de Desenvolvimento de Sistemas pelo SENAI Sul, apaixonado por tecnolog
 
 Atualmente desenvolvendo projetos web completos utilizando PHP, Python, JavaScript e MySQL, sempre buscando evoluir em arquitetura de software, backend e bancos de dados.
 
-<br>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caepetry/)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ab27iejl67krwd7n50hmokg4l)
-
-</div>
-
 ---
 
 # 🚀 Sobre Mim
@@ -70,15 +63,15 @@ Sistema web desenvolvido em equipe durante o curso técnico, contendo autentica�
 
 **Tecnologias:** Python • Flask • MySQL • HTML • CSS
 
-🔗 https://github.com/PietroTamanini/GHCP
+🔗 https://github.com/TeamGHCP/GameChip
 
 ---
 
 ---
 
+<br>
 
-<div align="center">
-
-### 🚀 Sempre aprendendo, construindo e evoluindo.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caepetry/)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ab27iejl67krwd7n50hmokg4l)
 
 </div>
