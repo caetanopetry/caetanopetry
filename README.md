@@ -1,33 +1,105 @@
-# 👋 Olá, eu sou Caetano Petry!
+<div align="center">
 
-Tenho **16 anos** e sou estudante de **Desenvolvimento de Sistemas** no SENAI Sul, em Joinville-SC.  
-Sou apaixonado por tecnologia desde pequeno e estou **sempre em busca de conhecimento**, aprendendo novas habilidades e explorando diferentes áreas do desenvolvimento.
+# 👋 Olá, eu sou Caetano Petry
 
-Tenho experiência e gosto de trabalhar com **Python**, **Flask**, **HTML**, **CSS**, **Java Sript** e **Nodejs** e estou constantemente buscando evoluir tanto no lado técnico quanto pessoal.
+### Software Developer • Backend • Web Development
 
-## 🚀 Projeto Favorito
-- **[GHCP-- GAME CHIP](https://github.com/PietroTamanini/GHCP)**  
-  Meu projeto atual favorito, feito com colegas do curso, onde aplico meus conhecimentos e coloco em prática o que venho aprendendo.
+Estudante de Desenvolvimento de Sistemas pelo SENAI Sul, apaixonado por tecnologia, desenvolvimento de software e resolução de problemas através da programação.
 
-## 💻 Tecnologias e Habilidades
-- Python
-- Flask
-- HTML & CSS
-- Java Sript
-- Nodejs
-- MySQLWorkbench
-- Git
-- GitHub
+Atualmente desenvolvendo projetos web completos utilizando PHP, Python, JavaScript e MySQL, sempre buscando evoluir em arquitetura de software, backend e bancos de dados.
 
-## 🎮 Hobbies & Interesses
-- Jogar basquete nos finais de semana
-- Academia
-- Escutar música (sempre que possível!)
+<br>
 
-## 🌐 Redes sociais
-- [Instagram](https://www.instagram.com/caepetry/)
-- [Spotify](https://open.spotify.com/user/ab27iejl67krwd7n50hmokg4l)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caepetry/)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ab27iejl67krwd7n50hmokg4l)
+
+</div>
 
 ---
 
-**Estou sempre aberto para novas conexões, ideias e projetos!**
+# 🚀 Sobre Mim
+
+- 🎓 Estudante de Desenvolvimento de Sistemas no SENAI Sul
+- 💻 Foco em desenvolvimento Backend e aplicações Web
+- 🛠️ Experiência com PHP, Python, JavaScript, Flask e MySQL
+- 📚 Sempre aprendendo novas tecnologias e boas práticas
+- 🏀 Basquete, academia e música nas horas livres
+
+---
+
+# 💻 Tecnologias
+
+## Linguagens
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+---
+
+## Frameworks e Ferramentas
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+# 📌 Projetos em Destaque
+
+### ⚖️ JusTraduz
+
+Plataforma jurídica desenvolvida em PHP, JavaScript e MySQL que conecta cidadãos e advogados, facilitando a compreensão de documentos jurídicos e o acesso à assistência legal.
+
+**Tecnologias:** PHP • JavaScript • HTML • CSS • MySQL
+
+---
+
+### 🎮 GHCP - Game Chip
+
+Sistema web desenvolvido em equipe durante o curso técnico, contendo autenticação, gerenciamento de produtos, carrinho de compras, relatórios administrativos e integração com banco de dados.
+
+**Tecnologias:** Python • Flask • MySQL • HTML • CSS
+
+🔗 https://github.com/PietroTamanini/GHCP
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caetanopetry&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caetanopetry&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+# 🎯 Atualmente Estudando
+
+![PHP](https://img.shields.io/badge/PHP_Backend-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL_Optimization-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Software Architecture](https://img.shields.io/badge/Software_Architecture-0A66C2?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git_Workflow-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+<div align="center">
+
+### 🚀 Sempre aprendendo, construindo e evoluindo.
+
+</div>
