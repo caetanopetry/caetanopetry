@@ -47,7 +47,6 @@ Atualmente desenvolvendo projetos web completos utilizando PHP, Python, JavaScri
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -55,18 +54,16 @@ Atualmente desenvolvendo projetos web completos utilizando PHP, Python, JavaScri
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+
+
+# 🎯 Atualmente Estudando
+
+![PHP](https://img.shields.io/badge/PHP_Backend-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL_Optimization-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Software Architecture](https://img.shields.io/badge/Software_Architecture-0A66C2?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git_Workflow-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
-
-# 📌 Projetos em Destaque
-
-### ⚖️ JusTraduz
-
-Plataforma jurídica desenvolvida em PHP, JavaScript e MySQL que conecta cidadãos e advogados, facilitando a compreensão de documentos jurídicos e o acesso à assistência legal.
-
-**Tecnologias:** PHP • JavaScript • HTML • CSS • MySQL
-
----
-
 ### 🎮 GHCP - Game Chip
 
 Sistema web desenvolvido em equipe durante o curso técnico, contendo autenticação, gerenciamento de produtos, carrinho de compras, relatórios administrativos e integração com banco de dados.
@@ -77,26 +74,8 @@ Sistema web desenvolvido em equipe durante o curso técnico, contendo autentica�
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caetanopetry&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caetanopetry&layout=compact&theme=tokyonight)
-
-</div>
-
 ---
 
-# 🎯 Atualmente Estudando
-
-![PHP](https://img.shields.io/badge/PHP_Backend-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL_Optimization-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Software Architecture](https://img.shields.io/badge/Software_Architecture-0A66C2?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git_Workflow-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
 
 <div align="center">
 
