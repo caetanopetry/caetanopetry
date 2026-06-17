@@ -20,6 +20,15 @@ Atualmente desenvolvendo projetos web completos utilizando PHP, Python, JavaScri
 
 ---
 
+# 💡 Perfil Profissional
+
+- 🤝 **Soft Skills:** Trabalho em equipe, comunicação assertiva e mentalidade focada na resolução de problemas.
+- ⚡ **Metodologias:** Familiarizado com Git Flow e práticas de desenvolvimento colaborativo.
+- 📍 **Localização:** Joinville, SC
+- 💼 **Status:** Em busca de oportunidades de estágio ou desafios como desenvolvedor Júnior.
+
+---
+
 # 💻 Tecnologias
 
 ## Linguagens
@@ -47,7 +56,7 @@ Atualmente desenvolvendo projetos web completos utilizando PHP, Python, JavaScri
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
+---
 
 # 🎯 Atualmente Estudando
 
@@ -57,6 +66,7 @@ Atualmente desenvolvendo projetos web completos utilizando PHP, Python, JavaScri
 ![Git](https://img.shields.io/badge/Git_Workflow-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
 ### 🎮 GHCP - Game Chip
 
 Sistema web desenvolvido em equipe durante o curso técnico, contendo autenticação, gerenciamento de produtos, carrinho de compras, relatórios administrativos e integração com banco de dados.
@@ -67,11 +77,8 @@ Sistema web desenvolvido em equipe durante o curso técnico, contendo autentica�
 
 ---
 
----
-
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caepetry/)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ab27iejl67krwd7n50hmokg4l)
 
 </div>
