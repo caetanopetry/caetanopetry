@@ -12,20 +12,14 @@ Atualmente desenvolvendo projetos web completos utilizando PHP, Python, JavaScri
 
 # 🚀 Sobre Mim
 
-- 🎓 Estudante de Desenvolvimento de Sistemas no SENAI Sul
-- 💻 Foco em desenvolvimento Backend e aplicações Web
-- 🛠️ Experiência com PHP, Python, JavaScript, Flask e MySQL
-- 📚 Sempre aprendendo novas tecnologias e boas práticas
-- 🏀 Basquete, academia e música nas horas livres
+* 🎓 Sou estudante de Desenvolvimento de Sistemas no SENAI Sul
+* 💻 Tenho foco em desenvolvimento Backend e aplicações Web
+* 🛠️ Possuo experiência com PHP, Python, JavaScript, Flask e MySQL
+* 👥 Tenho facilidade para trabalhar em equipe, com boa comunicação e foco na resolução de problemas
+* 📚 Estou sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
+* 🏀 Nas horas livres, gosto de jogar basquete, treinar na academia e ouvir música
 
 ---
-
-# 💡 Perfil Profissional
-
-- 🤝 **Soft Skills:** Trabalho em equipe, comunicação assertiva e mentalidade focada na resolução de problemas.
-- ⚡ **Metodologias:** Familiarizado com Git Flow e práticas de desenvolvimento colaborativo.
-- 📍 **Localização:** Joinville, SC
-- 💼 **Status:** Em busca de oportunidades de estágio ou desafios como desenvolvedor Júnior.
 
 ---
 
